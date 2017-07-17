@@ -1,0 +1,52 @@
+7/15/2017 8:54:38 AM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/15/2017 8:54:38 AM: Successfully set the 'FirstRun' registry key to 0
+7/15/2017 8:54:38 AM: Attempting to start Plex
+7/15/2017 8:54:38 AM: Plex Media Server version is 1.5.7.4016. Can use startup argument.
+7/15/2017 8:54:39 AM: Plex Service Started
+7/15/2017 8:54:39 AM: Plex Media Server Started.
+7/15/2017 9:08:05 AM: Plex Media Server has stopped!
+7/15/2017 9:08:05 AM: Plex DLNA Server Stopped.
+7/15/2017 9:08:05 AM: PlexScriptHost Stopped.
+7/15/2017 9:08:05 AM: Plex Update Service Stopped.
+7/15/2017 9:08:05 AM: Waiting 30 seconds before re-starting the Plex process.
+7/15/2017 9:08:35 AM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/15/2017 9:08:35 AM: Successfully set the 'FirstRun' registry key to 0
+7/15/2017 9:08:35 AM: Attempting to start Plex
+7/15/2017 9:08:35 AM: Plex Media Server version is 1.5.7.4016. Can use startup argument.
+7/15/2017 9:08:35 AM: Plex Media Server Started.
+7/16/2017 10:00:52 PM: Plex Service Stopped
+7/16/2017 10:08:14 PM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/16/2017 10:08:14 PM: Successfully removed auto start entry from registry
+7/16/2017 10:08:14 PM: Successfully set the 'FirstRun' registry key to 0
+7/16/2017 10:08:14 PM: Plex Media Server already running in session 0.
+7/16/2017 10:08:16 PM: There is already a listener on IP endpoint 0.0.0.0:8787. This could happen if there is another application already listening on this endpoint or if you have multiple service endpoints in your service host with the same IP endpoint but with incompatible binding configurations.
+7/16/2017 10:08:16 PM: Plex Service Started
+7/17/2017 5:38:21 AM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/17/2017 5:38:21 AM: Successfully set the 'FirstRun' registry key to 0
+7/17/2017 5:38:21 AM: Attempting to start Plex
+7/17/2017 5:38:22 AM: Plex Media Server version is 1.7.5.4035. Can use startup argument.
+7/17/2017 5:38:22 AM: Plex Media Server Started.
+7/17/2017 5:38:26 AM: Plex Service Started
+7/17/2017 5:44:13 AM: Plex Service Stopped
+7/17/2017 6:20:48 AM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/17/2017 6:20:49 AM: Successfully set the 'FirstRun' registry key to 0
+7/17/2017 6:20:49 AM: Plex Service Started
+7/17/2017 6:20:49 AM: Plex Media Server already running in session 0.
+7/17/2017 6:33:40 AM: Plex Service Stopped
+7/17/2017 6:40:49 AM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/17/2017 6:40:49 AM: Successfully set the 'FirstRun' registry key to 0
+7/17/2017 6:40:49 AM: Plex Service Started
+7/17/2017 6:40:49 AM: Plex Media Server already running in session 3.
+7/17/2017 6:41:16 AM: Plex Service Stopped
+7/17/2017 6:42:38 AM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/17/2017 6:42:38 AM: Successfully set the 'FirstRun' registry key to 0
+7/17/2017 6:42:38 AM: Plex Service Started
+7/17/2017 6:42:38 AM: Plex Media Server already running in session 3.
+7/17/2017 6:42:59 AM: Plex Service Stopped
+7/17/2017 6:46:43 AM: Plex executable found at C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+7/17/2017 6:46:43 AM: Successfully removed auto start entry from registry
+7/17/2017 6:46:43 AM: Successfully set the 'FirstRun' registry key to 0
+7/17/2017 6:46:44 AM: Attempting to start Plex
+7/17/2017 6:46:44 AM: Plex Media Server version is 1.7.5.4035. Can use startup argument.
+7/17/2017 6:46:45 AM: Plex Media Server Started.
+7/17/2017 6:46:49 AM: Plex Service Started

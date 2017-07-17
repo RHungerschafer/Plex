@@ -1,0 +1,52 @@
+[
+  {
+    "type": "info",
+    "host": "localhost:32400",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0",
+    "browser": {
+      "id": "firefox",
+      "name": "Firefox",
+      "version": "54.0",
+      "gecko": true,
+      "platform": "Windows",
+      "platformID": "windows",
+      "platformVersion": "10",
+      "platformModifierKey": "ctrl"
+    },
+    "version": "3.9.1",
+    "primaryServerUrl": "http://127.0.0.1:32400/",
+    "primaryServerAuthToken": true,
+    "username": "RHungerschafer",
+    "cloudUrl": [
+      {
+        "scheme": "https",
+        "address": "plex.tv",
+        "uri": "https://plex.tv",
+        "testState": "connected",
+        "isBundled": false,
+        "isFallback": false,
+        "relay": false,
+        "isPossiblyCrossNetworkProtected": false,
+        "isUntested": false,
+        "isPending": false,
+        "isConnected": true,
+        "isUnauthorized": false,
+        "isUnavailable": false,
+        "isFailed": false,
+        "isAborted": false,
+        "isLoopback": false,
+        "isPrivate": false,
+        "isHttps": true,
+        "isSecure": true,
+        "isPlexDirect": false,
+        "currentTest": null,
+        "sources": [
+          {
+            "id": "internal"
+          }
+        ]
+      }
+    ],
+    "cloudAccessToken": true
+  }
+]

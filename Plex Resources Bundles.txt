@@ -1,0 +1,27 @@
+ Volume in drive C is OS
+ Volume Serial Number is D2D6-0B3E
+
+ Directory of C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-313f93718
+
+07/16/2017  10:04 PM    <DIR>          .
+07/16/2017  10:04 PM    <DIR>          ..
+07/17/2017  06:45 AM    <DIR>          Fanart-TV.bundle
+07/17/2017  06:44 AM    <DIR>          Framework.bundle
+07/17/2017  06:44 AM    <DIR>          HTbackdrops.bundle
+07/17/2017  06:44 AM    <DIR>          LastFM.bundle
+07/17/2017  06:44 AM    <DIR>          LocalMedia.bundle
+07/16/2017  10:04 PM    <DIR>          LyricFind.bundle
+07/17/2017  06:44 AM    <DIR>          Media-Flags.bundle
+07/17/2017  06:45 AM    <DIR>          MoviePosterDB.bundle
+07/17/2017  06:45 AM    <DIR>          OpenSubtitles.bundle
+07/17/2017  06:44 AM    <DIR>          PersonalMedia.bundle
+07/17/2017  06:45 AM    <DIR>          PlexMovie.bundle
+07/17/2017  06:45 AM    <DIR>          PlexMusic.bundle
+07/17/2017  06:44 AM    <DIR>          PlexThemeMusic.bundle
+07/17/2017  06:44 AM    <DIR>          Scanners.bundle
+07/16/2017  10:04 PM    <DIR>          System.bundle
+07/17/2017  06:44 AM    <DIR>          TheMovieDB.bundle
+07/17/2017  06:44 AM    <DIR>          TheTVDB.bundle
+07/17/2017  06:44 AM    <DIR>          WebClient.bundle
+               0 File(s)              0 bytes
+              20 Dir(s)  365,885,874,176 bytes free
